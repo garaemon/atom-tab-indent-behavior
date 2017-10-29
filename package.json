@@ -1,0 +1,19 @@
+{
+  "name": "tab-indent-behavior",
+  "main": "./lib/tab-indent-behavior",
+  "version": "0.0.0",
+  "description": "Always indent when hitting tab key",
+  "keywords": [
+      "indent"
+  ],
+  "activationCommands": {
+    "atom-workspace": "tab-indent-behavior:tab"
+  },
+  "repository": "https://github.com/garaemon/atom-tab-indent-behavior",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
