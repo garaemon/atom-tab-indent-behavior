@@ -1,10 +1,10 @@
 {
   "name": "tab-indent-behavior",
   "main": "./lib/tab-indent-behavior",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Always indent when hitting tab key",
   "keywords": [
-      "indent"
+    "indent"
   ],
   "activationCommands": {
     "atom-workspace": "tab-indent-behavior:tab"
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
